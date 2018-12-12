@@ -1,2 +1,1 @@
-# training
-Only for training GIT through Ubuntu
+Hello by Ubuntu
