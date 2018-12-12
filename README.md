@@ -1,1 +1,1 @@
-Hello by Ubuntu
+Hello from Ubuntu
